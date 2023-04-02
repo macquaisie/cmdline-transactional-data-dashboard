@@ -82,11 +82,11 @@ while True:
 
 
         time.sleep(20)
-        #os.system('clear')
+        
 
 
     con1.close()
     con2.close()
     con3.close()
     con4.close()
-    #os.system('clear')
+    
